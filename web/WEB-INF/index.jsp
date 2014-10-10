@@ -16,11 +16,11 @@
         
         <h2>Menu</h2>
         
-        <p> <a href="empresa.jsp"> Cadastro e manutenção de empresas </a> <br>
-            <a href="projeto.jsp"> Cadastro e manutenção dos projetos da empresa </a> <br>
-            <a href="recursos.jsp"> Cadastro e manutenção dos recursos </a> <br>
-            <a href="tarefas.jsp"> Cadastro e manutenção das tarefas </a> <br>
-            <a href="alocacao.jsp"> Vinculo das tarefas com recursos </a>
+        <p> <a href="Empresa.do"> Cadastro e manutenção de empresas </a> <br>
+            <a href="Projeto.do"> Cadastro e manutenção dos projetos da empresa </a> <br>
+            <a href="Recurso.do"> Cadastro e manutenção dos recursos </a> <br>
+            <a href="Tarefa.do"> Cadastro e manutenção das tarefas </a> <br>
+            <a href="Alocacao.do"> Vinculo das tarefas com recursos </a>
         </p>
     </body>
 </html>

@@ -47,7 +47,7 @@
             </table>
         </form>  
         
-        <h3> <a href="index.jsp"> Voltar </a> </h3>
+        <h3> <a href="Menu.do"> Voltar </a> </h3>
         
     </body>
 </html>
